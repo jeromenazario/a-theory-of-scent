@@ -1,4 +1,4 @@
-# Théorie — A Theory of Scent
+<img width="1920" height="963" alt="Screenshot 2026-04-18 at 1 16 59 AM" src="https://github.com/user-attachments/assets/495c63c8-36d0-4f8b-92c9-2df1b433833d" /># Théorie — A Theory of Scent
 ### A Niche Perfume Brand Landing Page | Business Website Midterm Exam
 ---
 ## 📌 Project Overview
@@ -55,6 +55,14 @@ No framework installations or dependencies are required.
 
 ---
 ## 📸 WEBSITE SHOWCASE
+<img width="1920" height="969" alt="Screenshot 2026-04-18 at 1 16 49 AM" src="https://github.com/user-attachments/assets/d2d03f76-0aee-4e1b-ab77-fcac2203cc1e" />
+<img width="1920" height="963" alt="Screenshot 2026-04-18 at 1 16 59 AM" src="https://github.com/user-attachments/assets/a084653f-71ec-4909-b75d-f19d6bd241f7" />
+<img width="1920" height="941" alt="Screenshot 2026-04-18 at 1 17 04 AM" src="https://github.com/user-attachments/assets/a474b60f-423c-4fe6-88ae-d098eb71c103" />
+<img width="1920" height="963" alt="Screenshot 2026-04-18 at 1 17 12 AM" src="https://github.com/user-attachments/assets/ceeeba24-ecca-4e53-a097-067cc920a905" />
+<img width="1920" height="964" alt="Screenshot 2026-04-18 at 1 20 02 AM" src="https://github.com/user-attachments/assets/811d91eb-b359-45ce-b7dc-5c7eadee2b4f" />
+<img width="1920" height="966" alt="Screenshot 2026-04-18 at 1 22 27 AM" src="https://github.com/user-attachments/assets/07015696-a045-419e-8d06-4a8e30a145d7" />
+<img width="1920" height="962" alt="Screenshot 2026-04-18 at 1 17 28 AM" src="https://github.com/user-attachments/assets/acf5a34a-d207-4298-a060-65f2b2eb3c59" />
+
 
 ---
 ## 👥 About
