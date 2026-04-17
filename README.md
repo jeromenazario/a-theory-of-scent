@@ -1,4 +1,4 @@
-<img width="1920" height="963" alt="Screenshot 2026-04-18 at 1 16 59 AM" src="https://github.com/user-attachments/assets/495c63c8-36d0-4f8b-92c9-2df1b433833d" /># Théorie — A Theory of Scent
+# Théorie — A Theory of Scent
 ### A Niche Perfume Brand Landing Page | Business Website Midterm Exam
 ---
 ## 📌 Project Overview
